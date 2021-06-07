@@ -66,6 +66,3 @@ Deploy 16 helm memcached CRs. ------------------------------------------- 1.31s
 Un-deploy 16 helm memcached CRs. ---------------------------------------- 1.21s
 [B3] Wait for all helm Memcached Pods to be gone. ---------------------- 43.16s
 Undeploy the helm memcached operator. ----------------------------------- 0.54s
-
-3. Golang operators
-
